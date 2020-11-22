@@ -1,5 +1,5 @@
 <h1 align = center>
-    <img src = "https://ik.imagekit.io/bbne7zel55/vdTXjjjW_photos_v2_x4_sM31HKpWU.png" style='width: 30%;'>
+    <img src = "https://ik.imagekit.io/bbne7zel55/vdTXjjjW_photos_v2_x4_sM31HKpWU.png" width="40%">
 </h1>
 
 
