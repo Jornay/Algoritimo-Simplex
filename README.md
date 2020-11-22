@@ -1,10 +1,9 @@
 <h1 align = center>
-    <img src = "https://ik.imagekit.io/bbne7zel55/vdTXjjjW_photos_v2_x4_sM31HKpWU.png" style='width: 65%;'>
+    <img src = "https://ik.imagekit.io/bbne7zel55/vdTXjjjW_photos_v2_x4_sM31HKpWU.png" style='width: 30%;'>
 </h1>
 
-<h1>
-    <img src = "public/assets/Gif-Intro.gif">
-</h1>
+
+
 
 # Indice
 - [Sobre](#-sobre)
