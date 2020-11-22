@@ -72,7 +72,7 @@ Clonando repositório a partir do **GitHub na web**:
 
 <br>
 
-- Logo em seguida , será executado e fara a demonstração dos dados.
+- Logo em seguida , será executado e irá fazer a demonstração dos dados.
 
 <br>
 <br>
