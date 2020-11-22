@@ -44,6 +44,7 @@ Clonando repositório a partir do **GitHub na web**:
 <img src = "https://ik.imagekit.io/bbne7zel55/1_QN07mPemh.png">
 
 ---
+---
 ## 💿 **Como executar o projeto**
 <br>
 <br>
@@ -90,7 +91,6 @@ Obs: Esse metodo não fara a demonstração da codificação.
 
 - Após isso será mostrado os dados moldados pelo algoritimo.
 ---
-
 ---
 ## 🔧 Desenvolvido por [Lucas de Abreu](https://github.com/Jornay) 
 ---
