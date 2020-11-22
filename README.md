@@ -51,7 +51,7 @@ Clonando repositório a partir do **GitHub na web**:
 
 <h2> 
 
-Execução através do **Visual Studio** : 
+1) Execução através do **Visual Studio** : 
 
 </h2>
 
@@ -78,7 +78,7 @@ Execução através do **Visual Studio** :
 <br>
 <h2> 
 
-Execução através do **Executável** : 
+2) Execução através do **Executável** : 
 
 </h2>
 Obs: Esse metodo não fara a demonstração da codificação.
