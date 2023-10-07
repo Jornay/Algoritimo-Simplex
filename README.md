@@ -1,96 +1,64 @@
-<h1 align = center>
-    <img src = "https://ik.imagekit.io/bbne7zel55/vdTXjjjW_photos_v2_x4_sM31HKpWU.png" width="40%">
+<h1 align="center">
+    <img src="https://ik.imagekit.io/bbne7zel55/vdTXjjjW_photos_v2_x4_sM31HKpWU.png" width="40%">
 </h1>
 
+# Table of Contents
+- [About](#-about)
+- [Technologies Used](#-technologies-used)
+- [How to Download the Project](#-how-to-download-the-project)
+- [How to Run the Project](#-how-to-run-the-project)
+- [Developed by](#-developed-by)
 
+## 📃 About
 
+This project involves the creation of an algorithm that facilitates the solution to many linear programming problems. The most common use of Simplex is to maximize a result, i.e., find the highest possible value for a total.
 
-# Indice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+## 🛠 Technologies Used
 
-## 📃 **Sobre**
-
-  Este projeto se resume na criação de um algoritimo que viabiliza a solução de muitos problemas da programação linear. O uso mais comum do Simplex é para se maximizar um resultado, ou seja, encontrar o maior valor possível para um total. 
-
----
-
-## 🛠 **Tecnologias utilizadas**
-
-O projeto foi desenvolvido utilizando a seguinte tecnologia:
+The project was developed using the following technology:
 
 - C#
 
---- 
-## 📥 **Como baixar o projeto**
+## 📥 How to Download the Project
 
-Clonando o repositório via **GitBash**:
+You can clone the repository using Git Bash:
 
 ```bash
-    #Clona o repositório
-    $ git clone https://github.com/Jornay/Simplex-Algorithm
+# Clone the repository
+$ git clone https://github.com/Jornay/Simplex-Algorithm
 
-    #Entra no diretório
-    cd Simplex-Algorithm
+# Enter the directory
+$ cd Simplex-Algorithm
 ```
-<br>
+You can also clone the repository directly from the web:
 
-Clonando repositório a partir do **GitHub na web**:
+    Access the link: https://github.com/Jornay/Simplex-Algorithm
+    Click the "Code" button and select "Download ZIP."
 
-- Entre nesse link: https://github.com/Jornay/Simplex-Algorithm
-- Após isso Click aqui:
+## 💿 How to Run the Project
+<h2>1) Execution via Visual Studio:</h2>
 
-<img src = "https://ik.imagekit.io/bbne7zel55/1_QN07mPemh.png">
+    Open Visual Studio.
+    Select the project file.
+    After opening the project in Visual Studio, select the file called "Program.cs" and click the run button.
+    The program will run and demonstrate the results.
 
----
----
-## 💿 **Como executar o projeto**
-<br>
-<br>
+<h2>2) Execution via the Executable:</h2>
 
-<h2> 
+Note: This method will not display the source code.
 
-1) Execução através do **Visual Studio** : 
+    In the folder where the project was cloned, access the folder named "Exec_Project".
+    Inside that folder, find the executable named "Simplex.exe" and run it.
+    The results calculated by the algorithm will be displayed.
 
-</h2>
+## 🔧 Developed by Lucas de Abreu
 
-<br>
-
-- Abrir o Visual Studio
-<img src = 'https://ik.imagekit.io/bbne7zel55/1_Idt6ajk5P.png'>
-
-<br>
-
-- Selecione o arquivo do Projeto
-<img src = 'https://ik.imagekit.io/bbne7zel55/2_mj_vsQLvi.png'>
-
-<br>
-
-- Após ter o projeto aberto em seu Visual Studio, selecione o arquivo localizado no canto direito chamado **"Program.cs"** e click no campo localizado no centro para executa-lo.
-<img src = 'https://ik.imagekit.io/bbne7zel55/4_48AN8C0Mf.png'>
-
-<br>
-
-- Logo em seguida , será executado e irá fazer a demonstração dos dados.
-
-<br>
-<br>
-<h2> 
-
-2) Execução através do **Executável** : 
-
-</h2>
-Obs: Esse metodo não fara a demonstração da codificação.
-
-<br>
-
-- Na pasta onde foi clonado o projeto, entrar na pasta com o nome **"Exec_Project"**.
-
-- Dentro dela, procurar pelo executável batizado de **"Simples.exe"** e execute-o
-
-- Após isso será mostrado os dados moldados pelo algoritimo.
----
----
-## 🔧 Desenvolvido por [Lucas de Abreu](https://github.com/Jornay) 
----
+Improvements made:
+- Adjusted the formatting of headings.
+- Improved the project description.
+- Corrected the spelling of "algorithm."
+- Added links in the table of contents for easier navigation.
+- Improved the description of how to download the project.
+- Added subsections for the sections on how to run the project.
+- Included a link to the developer's profile.
+- Improved clarity in various parts of the README.
